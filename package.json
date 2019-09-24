@@ -14,7 +14,7 @@
     "charset": "1.x",
     "cheerio": "^1.0.0-rc.2",
     "chrono-node": "1.x",
-    "iconv-lite": "0.4.x",
+    "iconv-lite": "0.5.x",
     "minimist": "1.x",
     "minimize": "2.x",
     "node-fetch": "2.x",
