@@ -26,7 +26,7 @@
   "devDependencies": {
     "micro": "9.x",
     "micro-cors": "0.x",
-    "mocha": "5.x",
+    "mocha": "6.x",
     "prettier": "1.12.1",
     "should": "13.x",
     "standard": "11.0.1"
